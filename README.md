@@ -1,0 +1,2 @@
+# Summary :
+The project involves working with a dataset from a TV and broadband telecommunications company. In this context, "churn" refers to customers canceling their subscription to the company's services, resulting in a revenue loss. The goal is to leverage the existing customer data to create a predictive model that can forecast future instances of churn. This predictive model would help the company take proactive measures to retain customers and mitigate revenue loss.
